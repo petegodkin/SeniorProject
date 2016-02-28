@@ -102,13 +102,13 @@ void AMyProject2Character::OnFire()
 	}
 
 	//// try and play a firing animation if specified
-	//if(FireAnimation != NULL)
+	//if(fireanimation != null)
 	//{
-	//	// Get the animation object for the arms mesh
-	//	UAnimInstance* AnimInstance = Mesh1P->GetAnimInstance();
-	//	if(AnimInstance != NULL)
+	//	// get the animation object for the arms mesh
+	//	uaniminstance* animinstance = mesh1p->getaniminstance();
+	//	if(animinstance != null)
 	//	{
-	//		AnimInstance->Montage_Play(FireAnimation, 1.f);
+	//		animinstance->montage_play(fireanimation, 1.f);
 	//	}
 	//}
 
